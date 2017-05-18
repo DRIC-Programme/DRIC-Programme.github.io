@@ -247,7 +247,7 @@
       left: 378px;
       top: 190px;
     }  
-.big_img {
+    .big_img {
        position: absolute;
       width: 600px;
       height: 200.66px;
@@ -256,4 +256,12 @@
       transform-style: preserve-3d;
       transform: translate3d(2px, 1px, 1px)
     }
+    .language_img {
+        position: absolute;
+        width: 66px;
+        height: 66px;
+        left: 622px;
+        top: 402px;
+    }
+
   </style>
